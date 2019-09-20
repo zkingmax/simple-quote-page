@@ -9,5 +9,10 @@
 }
 
 h1 {
-    text-transform: uppercase;
-  }
+  text-transform: uppercase;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+p {
+  font-family: 'Crimson Text', serif;
+}
