@@ -26,6 +26,12 @@ p {
   font-style: italic;
 }
 
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+
 @media (max-width: 768px) {
 
   h1 {
@@ -35,4 +41,16 @@ p {
   p {
     font-size: 1rem;
   }
+}
+
+ul {
+  list-style: none
+}
+
+li {
+  display: inline;
+}
+
+nav {
+  text-align: center
 }
